@@ -1,5 +1,4 @@
 ## Olá!! Sou o Paulo, tenho 19 anos, estou cursando Engenharia de Software e estou me aventurando nesse mundo da programação!!
-Sou o Paulo, tenho 19 anos, estou cursando Engenharia de Software e estou me aventurando nesse mundo da programação!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
