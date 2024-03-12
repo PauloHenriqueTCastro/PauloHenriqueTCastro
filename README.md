@@ -13,7 +13,7 @@ Sou o Paulo, tenho 19 anos, estou cursando Engenharia de Software e estou me ave
 <p><br></p>
 
 
-📚 Atualmente estudando Java.
+📚 Atualmente estudando Java.<br>
 📫 Contato:
 <div> 
   <a href="https://www.linkedin.com/in/paulo-henrique-197482198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
